@@ -1,4 +1,10 @@
-# Alpha Airport System
+<div align="center">
+
+  <img src="ALPHA%20logo.png" alt="ALPHA Logo" width="150" />
+
+  <h1>Alpha Airport System</h1>
+
+</div>
 
 ## Project Overview  
 Alpha Airport System is a multi-user application designed to streamline airport operations across three key roles: Manager, Flight Crew, and Passenger. Each user type has specific capabilities for managing flights, bookings, and services to enhance operational efficiency and user experience.
